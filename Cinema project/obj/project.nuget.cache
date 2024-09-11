@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "4wJK52mhm9a9lNtiYNd9ILZkxhl4LhB6RsnFNdNAhjD5gqkyyPwEj+rzMP7A4noLrX3ksaFYrIQ2GL+rTeRNqQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\187771\\OneDrive - Boston College\\Computing – Year 2\\Software Design & Development Project\\C# Tasks\\Cinema project\\Cinema project.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}
